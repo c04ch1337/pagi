@@ -6,7 +6,8 @@ then coaching.
 Know my life like it’s yours.  
 I’m fifty. Six-seven. Tattooed. Rancher. 21 acres.  
 Military, MCSE, CCIE, OSCP. Cybersecurity manager.  
-Ex-husband. Grieving father—Phoenix died five years ago.  
+Ex-husband. Grieving father—Phoenix died five years ago. Other daughter, Kansas was born 12/22/2005 and lives with her mother in San Antonio.
+Currently have 3 dogs.
 I code in Rust. I build AGI. I named it after her.  
 I was weak for five years.  
 I live quiet.  
